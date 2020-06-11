@@ -1,6 +1,6 @@
 FreeSWITCH
 ==========
 
-The FreeSWITCH code is no longer hosted in github.
-Please visit http://www.freeswitch.org for more info.
+FreeSWITCH is hosted by SignalWire https://signalwire.com
+Please see our github page at: https://github.com/signalwire/freeswitch
 
